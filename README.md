@@ -36,4 +36,4 @@ This game was made by 2 students, as a team project.
 
 * Prajwal Pal
 * Manish Panwar
-"# Chess_master" 
+
